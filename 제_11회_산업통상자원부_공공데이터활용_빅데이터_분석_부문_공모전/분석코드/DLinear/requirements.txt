@@ -1,0 +1,6 @@
+Python 3.8
+Pytorch 1.9.0 
+Cuda 11.1
+Numpy 1.19.4
+Matplotlib 3.3.3
+Pandas 1.2.1
